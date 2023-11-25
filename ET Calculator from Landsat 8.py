@@ -1,10 +1,9 @@
 """
-  ET CALCULATOR FOR LANDSAT 8
+  ET CALCULATOR FOR LANDSAT 8 SATELLITE IMAGERY
   
   Updated on: 17 September 2022
   Written by HaKaN OGUZ
-  Description: This python code calculates evapotranspiration (ET) from Landsat 8 imagery 
-
+  Description: This python code calculates evapotranspiration (ET) from Landsat 8 satellite imagery 
 """
 
 import arcpy
